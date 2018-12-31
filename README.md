@@ -47,3 +47,9 @@ This tool does zero analysis on its own. I've used `go-rename` to do all the hea
 
 **Cons:**
 * The execution time is slow.
+
+# Motivation
+
+Keep the number of exported symbols low. 
+
+It's hard to maintain minimal exported symbol set for a big projects, so this tool can help a little bit in that regard.
