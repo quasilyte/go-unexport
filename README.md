@@ -19,7 +19,7 @@ they are only used inside the package itself, one can specify `skip` flag.
 This install `go-unexport` binary under your `$GOPATH/bin`:
 
 ```bash
-go get github.com/Quasilyte/go-consistent
+go get github.com/Quasilyte/go-unexport
 ```
 
 If `$GOPATH/bin` is under your system `$PATH`, `go-unexport` command should be available after that.<br>
