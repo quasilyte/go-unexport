@@ -1,6 +1,6 @@
 # go-unexport
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/Quasilyte/go-unexport)](https://goreportcard.com/report/github.com/Quasilyte/go-unexport)
+[![Go Report Card](https://goreportcard.com/badge/github.com/quasilyte/go-unexport)](https://goreportcard.com/report/github.com/quasilyte/go-unexport)
 
 # Overview
 
@@ -19,7 +19,7 @@ they are only used inside the package itself, one can specify `skip` flag.
 This install `go-unexport` binary under your `$GOPATH/bin`:
 
 ```bash
-go get github.com/Quasilyte/go-unexport
+go get github.com/quasilyte/go-unexport
 ```
 
 If `$GOPATH/bin` is under your system `$PATH`, `go-unexport` command should be available after that.<br>
